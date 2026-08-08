@@ -1,3 +1,6 @@
+# 💫 About Me:
+👋 Hi, I'm Surajit Ghosh<br><br>🎓 BCA 2nd Year Student<br>💻 Passionate about Programming & Technology<br>🚀 Exploring C | Java | Python | Web Development<br>🌱 Currently learning new skills and building projects<br>🎯 Goal: Become a skilled Software Developer<br><br>✨ I love turning ideas into code and solving real-world problems.<br>📫 Let’s connect and grow together!<br>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ishere_.sg._) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sg540779@gmail.com) 
